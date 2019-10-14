@@ -1,0 +1,5 @@
+.ghc*
+.log
+dist*
+*.swp
+*.swo
